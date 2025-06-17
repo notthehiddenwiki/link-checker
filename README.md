@@ -1,4 +1,16 @@
-# Link Checker for Markdown Files
+# Not The Hidden Wiki Link Checker for Markdown Files
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
+</p>
+
+This repository contains the public code of the **Not The Hidden Wiki** link checker. 
+
+The entire code was written by **sbjohansen** : [GitHub](https://github.com/sbjohansen)
+
+If you like this link checker, let the creator know and support his projects!
+
+----
 
 A fast and reliable tool that scans markdown files for HTTP/HTTPS links and checks their availability. Perfect for maintaining documentation, blogs, and repositories with external references.
 
